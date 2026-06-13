@@ -92,5 +92,5 @@ A highly accomplished, cross-disciplinary researcher bridging clinical dentistry
 ---
 
 ## 🛠️ Technical Skills Summary
-* **Clinical & Research:** Dental Implantology Research, Surgical Technology, Perioperative Workflows, Biotechnology, EHR Data Integrity.
+* **Clinical & Research:**Surgical Technology, Perioperative Workflows, Biotechnology, EHR Data Integrity.
 * **Technical & Data:** Business Intelligence (BI), Relational Database Management (SQL), Data Architecture, Analytics, Compliance Auditing.
