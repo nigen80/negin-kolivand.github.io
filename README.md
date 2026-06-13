@@ -1,6 +1,6 @@
 # NEGIN KOLIVAND
 **Kazan, Russian Federation** | +7 (927) 034-8129 | [negkolivand@kpfu.ru](mailto:negkolivand@kpfu.ru)
-[💼 LinkedIn Profile]((https://www.linkedin.com/in/neginkolivand2001)) | [🌐 Digital Portfolio Hub]((https://github.com/nigen80/negin-kolivand.github.io/tree/main))
+[💼 LinkedIn Profile](https://www.linkedin.com/in/neginkolivand2001) | [🌐 Digital Portfolio Hub]((https://github.com/nigen80/negin-kolivand.github.io/tree/main))
 
 ---
 
